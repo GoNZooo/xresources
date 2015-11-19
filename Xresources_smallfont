@@ -1,3 +1,6 @@
+URxvt.perl-ext-common: resize-font
+URxvt.resize-font.smaller: C-H
+URxvt.resize-font.bigger: C-L
 URxvt.scrollBar: false
 
 !Theme Three (phraktured.net)
@@ -36,7 +39,7 @@ URxvt*color14:    rgb:1c/f5/f5
 URxvt*color7:     rgb:fe/fe/fe
 URxvt*color15:    rgb:ff/ff/ff
 
-URxvt.font: xft:Iosevka:pixelsize=14
+URxvt.font: xft:Terminus:pixelsize=13
 
 Xft.dpi: 96
 Xft.antialias: 1
