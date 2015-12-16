@@ -112,7 +112,7 @@ URxvt*color15:    rgb:ff/ff/ff
 !URxvt*color14:                 S_base1
 !URxvt*color15:                 S_base3
 
-URxvt.font: xft:Ubuntu Mono:pixelsize=12
+URxvt.font: xft:Ubuntu Mono:pixelsize=14
 
 Xft.dpi: 96
 Xft.antialias: 1
