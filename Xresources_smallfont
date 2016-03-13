@@ -5,7 +5,7 @@ URxvt.scrollBar: false
 
 URxvt.intensityStyles: false
 
-!Theme Three (phraktured.net)
+!!Theme Three (phraktured.net)
 URxvt*background: rgb:11/11/11
 URxvt*foreground: rgb:cf/cf/cf
 
